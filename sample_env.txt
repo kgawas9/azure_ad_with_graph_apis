@@ -1,0 +1,5 @@
+client_id=
+client_secret=
+tenant_id=
+
+AD_URL=https://login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token?
